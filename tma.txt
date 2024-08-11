@@ -1,0 +1,1 @@
+user={"id":6542483052,"first_name":"Junior","last_name":"Sw","username":"juniorsw1","language_code":"en","allows_write_to_pm":true}&chat_instance=-3328504072302965248&chat_type=supergroup&start_param=referral=sei1ue5t8kfh8hwwupr0c59nhxpnd4smgxfkmkyujg&auth_date=1719630396&hash=5312211b3ac992cdde0bfa6880eff5d0a3e87e0b4885af58d9583c78fee733e9
